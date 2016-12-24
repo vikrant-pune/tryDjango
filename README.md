@@ -1,0 +1,2 @@
+# tryDjango
+tryingDjango
