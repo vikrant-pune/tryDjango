@@ -1,2 +1,2 @@
 # tryDjango
-tryingDjangasdasda sdasd asd o
+tryingDjangasdasda sdasd asdasdasd asd asdas d  o
